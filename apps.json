@@ -45,6 +45,14 @@
       "grownUp": true,
       "url": "https://appassets.androidplatform.net/assets/isolated/webview-check.html",
       "color": "#4a4566"
+    },
+    {
+      "id": "deckdex",
+      "name": "DeckDex",
+      "kind": "game",
+      "grownUp": true,
+      "url": "https://sams-macbook-pro.tailbde221.ts.net:8443/static/handheld.html",
+      "color": "#d32030"
     }
   ]
 }
