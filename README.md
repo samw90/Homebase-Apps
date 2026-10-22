@@ -4,6 +4,8 @@ The tiles on Homebase, the locked-down home screen on our Retroid Pocket Classic
 
 To add, remove or change a tile, edit `apps.json` and commit. The next time the tiles open, they update.
 
+Making something new for the device? Read the guide in the Homebase repo first: `docs/making-games-for-the-retroid.md` (screen size, buttons, read-aloud, offline, testing, checklist).
+
 Each app:
 
 | Field | Meaning |
