@@ -18,24 +18,12 @@
       "color": "#2d2a4a"
     },
     {
-      "id": "mathquest",
-      "name": "Math Quest",
-      "kind": "game",
-      "url": "https://samw90.github.io/MathQuest/",
-      "icon": "https://samw90.github.io/MathQuest/icon-192.png",
-      "color": "#3fae5a",
-      "keys": {
-        "a": "Enter",
-        "b": "Escape"
-      }
-    },
-    {
       "id": "padtest",
       "name": "Controller test",
       "kind": "tool",
       "grownUp": true,
       "input": "gamepad",
-      "url": "https://samw90.github.io/MathQuestLegends/tools/pad-test.html",
+      "url": "https://sams-macbook-pro.tailbde221.ts.net:8445/legends/tools/pad-test.html",
       "color": "#4a4566"
     },
     {
