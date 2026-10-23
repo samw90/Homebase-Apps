@@ -50,6 +50,15 @@
       "grownUp": true,
       "url": "https://sams-macbook-pro.tailbde221.ts.net:8443/static/handheld.html",
       "color": "#d32030"
+    },
+    {
+      "id": "manadex",
+      "name": "ManaDex",
+      "kind": "game",
+      "grownUp": true,
+      "url": "https://sams-macbook-pro.tailbde221.ts.net:8445/manadex/",
+      "icon": "https://sams-macbook-pro.tailbde221.ts.net:8445/manadex/icon.png",
+      "color": "#3b2a6b"
     }
   ]
 }
