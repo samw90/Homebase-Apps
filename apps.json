@@ -9,6 +9,15 @@
       "color": "#2d2a4a"
     },
     {
+      "id": "mql-progress",
+      "name": "Math progress",
+      "kind": "tool",
+      "grownUp": true,
+      "url": "https://sams-macbook-pro.tailbde221.ts.net:8445/legends/progress.html",
+      "icon": "https://sams-macbook-pro.tailbde221.ts.net:8445/legends/icon-192.png",
+      "color": "#2f6b4f"
+    },
+    {
       "id": "mql-dev",
       "name": "Math Quest Legends (dev)",
       "kind": "game",
