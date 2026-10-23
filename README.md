@@ -1,8 +1,8 @@
 # Homebase app list
 
-The tiles on Homebase, the locked-down home screen on our Retroid Pocket Classic. Homebase downloads `apps.json` from here every time its home screen opens, and keeps the last copy for when there's no internet.
+The tiles on Homebase, the locked-down home screen on our Retroid Pocket Classic. The Mac serves this `apps.json` to the Retroid over Tailscale; Homebase downloads it every time its home screen opens, and keeps the last copy for when there's no internet.
 
-To add, remove or change a tile, edit `apps.json` and commit. The next time the tiles open, they update.
+To add, remove or change a tile: edit `apps.json`, commit, then run `./serve.sh apps` in the Homebase repo. The next time the tiles open, they update. Pushing to GitHub is only a backup; the Retroid doesn't read it from here.
 
 Making something new for the device? Read the guide in the Homebase repo first: `docs/making-games-for-the-retroid.md` (screen size, buttons, read-aloud, offline, testing, checklist).
 
