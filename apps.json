@@ -59,6 +59,15 @@
       "url": "https://sams-macbook-pro.tailbde221.ts.net:8444/static/handheld.html",
       "icon": "https://sams-macbook-pro.tailbde221.ts.net:8444/static/icon-512.png",
       "color": "#3b2a6b"
+    },
+    {
+      "id": "shadow",
+      "name": "Shadow Network",
+      "kind": "game",
+      "grownUp": true,
+      "url": "https://sams-macbook-pro.tailbde221.ts.net:8445/shadow/",
+      "icon": "https://sams-macbook-pro.tailbde221.ts.net:8445/shadow/icon-192.png",
+      "color": "#1c3324"
     }
   ]
 }
