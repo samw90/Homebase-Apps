@@ -69,6 +69,15 @@
       "shoulders": true,
       "icon": "https://sams-macbook-pro.tailbde221.ts.net:8445/shadow/icon-192.png",
       "color": "#1c3324"
+    },
+    {
+      "id": "wordquest",
+      "name": "Word Quest Legends",
+      "kind": "game",
+      "grownUp": true,
+      "url": "https://sams-macbook-pro.tailbde221.ts.net:8445/words/",
+      "icon": "https://sams-macbook-pro.tailbde221.ts.net:8445/words/icon-192.png",
+      "color": "#3b2a6b"
     }
   ]
 }
