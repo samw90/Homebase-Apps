@@ -18,6 +18,14 @@
       "color": "#2f6b4f"
     },
     {
+      "id": "shopkeeper",
+      "name": "Shop Keeper",
+      "kind": "game",
+      "url": "https://sams-macbook-pro.tailbde221.ts.net:8445/shopkeeper/",
+      "icon": "https://sams-macbook-pro.tailbde221.ts.net:8445/shopkeeper/icon-192.png",
+      "color": "#f2608a"
+    },
+    {
       "id": "mql-dev",
       "name": "Math Quest Legends (dev)",
       "kind": "game",
