@@ -86,6 +86,15 @@
       "url": "https://sams-macbook-pro.tailbde221.ts.net:8445/words/",
       "icon": "https://sams-macbook-pro.tailbde221.ts.net:8445/words/icon-192.png",
       "color": "#3b2a6b"
+    },
+    {
+      "id": "drivingtest",
+      "name": "Driving test",
+      "kind": "game",
+      "grownUp": true,
+      "url": "https://sams-macbook-pro.tailbde221.ts.net:8445/driving/",
+      "shoulders": true,
+      "color": "#2a6fdb"
     }
   ]
 }
