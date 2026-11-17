@@ -91,7 +91,6 @@
       "id": "roadquest",
       "name": "Road Quest",
       "kind": "game",
-      "grownUp": true,
       "url": "https://sams-macbook-pro.tailbde221.ts.net:8445/driving/",
       "shoulders": true,
       "icon": "https://sams-macbook-pro.tailbde221.ts.net:8445/driving/icon-192.png",
