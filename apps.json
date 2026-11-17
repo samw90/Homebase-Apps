@@ -96,16 +96,6 @@
       "shoulders": true,
       "icon": "https://sams-macbook-pro.tailbde221.ts.net:8445/driving/icon-192.png",
       "color": "#2a6fdb"
-    },
-    {
-      "id": "roadquest-speed",
-      "name": "Road Quest speed test",
-      "kind": "game",
-      "grownUp": true,
-      "url": "https://sams-macbook-pro.tailbde221.ts.net:8445/driving/?fps",
-      "shoulders": true,
-      "icon": "https://sams-macbook-pro.tailbde221.ts.net:8445/driving/icon-192.png",
-      "color": "#555b66"
     }
   ]
 }
